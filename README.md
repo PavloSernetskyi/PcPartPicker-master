@@ -23,5 +23,9 @@ Initial Screen.
 Choosing different PC Parts.
 ![image](https://github.com/user-attachments/assets/633bdeac-28db-4939-82dd-593f42850f94)
 
+![image](https://github.com/user-attachments/assets/88e51c3d-fd66-4a82-b439-31d8312b11b6)
+
+![image](https://github.com/user-attachments/assets/32d65b7b-c261-4a00-8c87-11a5e30ad71b)
+
 Final Config.
 ![image](https://github.com/user-attachments/assets/ae8f5e5d-3e97-4b7f-8b8c-1f0f11b4cbb1)
