@@ -17,10 +17,10 @@ The project we created was a GUI application that gave the user several options 
 The project used object-oriented programming extensively, as well as many of the GUI features we learned in class using Java Swing. We used data types such as ArrayLists, as well as the concepts of polymorphism, among many other things.
 
 # Sample Screenshots
-Initial Screen
+Initial Screen:
 ![image](https://github.com/user-attachments/assets/0fef10c6-ea86-4da2-b65e-7a8a4a2c9334)
 
-Choosing different PC Parts
+Choosing different PC Parts:
 ![image](https://github.com/user-attachments/assets/633bdeac-28db-4939-82dd-593f42850f94)
 
 ![image](https://github.com/user-attachments/assets/88e51c3d-fd66-4a82-b439-31d8312b11b6)
