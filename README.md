@@ -3,10 +3,10 @@
 Project Name: PC Part Picker
 
 Group members:
-Konrad Owczarek
-Ibraheem Syed
-Pavlo Sernetskyi
-Noah Corwin
+Konrad Owczarek,
+Ibraheem Syed,
+Pavlo Sernetskyi,
+Noah Corwin.
 
 How we met:
 We met up every Friday since the assignment of the project (except for holidays) to collaborate and split up responsibilities. In total, we met up around 5 times, for a couple hours each time. Additionally, we collaborated extensively throughout the semester using text, which also helped us to plan out elements of the project.
