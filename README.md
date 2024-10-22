@@ -27,5 +27,4 @@ Choosing different PC Parts.
 
 ![image](https://github.com/user-attachments/assets/32d65b7b-c261-4a00-8c87-11a5e30ad71b)
 
-Final Config.
 ![image](https://github.com/user-attachments/assets/ae8f5e5d-3e97-4b7f-8b8c-1f0f11b4cbb1)
